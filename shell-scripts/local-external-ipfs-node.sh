@@ -7,10 +7,10 @@
 export PORT=5005 # REST API port
 
 # The human-readible name that is used when displaying data about this node.
-export COORD_NAME=trout-dev-bch-wallet-consumer
+export COORD_NAME=shoemaker-dev-trial
 
 # This is used for end-to-end encryption (e2ee).
-export MNEMONIC="stomach mean catch march census author cousin size south romance pumpkin trap"
+export MNEMONIC="month crazy soldier lesson liberty concert noble siren another eternal that blade"
 
 # 0 = less verbose. 3 = most verbose
 export DEBUG_LEVEL=1
